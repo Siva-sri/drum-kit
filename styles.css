@@ -78,4 +78,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+  cursor: pointer;
 }
+.drum:hover{
+  color: #283149;
+}
+
